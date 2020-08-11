@@ -7,5 +7,7 @@
 * [CodePen](https://codepen.io/): 고수분들이 만들어놓은 웹 관련 코드들을 무료로 사용할 수 있는 사이트다. 라이센스만 잘 읽고 사용하도록 하자!  
 * [favicon](https://www.favicon-generator.org/): favicon 생성해주는 사이트  
 * [netlify](https://www.netlify.com/): 웹사이트를 아주 편하게 배포할 수 있게 해주는 사이트. 깃허브와 연동이 되서 편하다.  
-* [네이버 웹마스터 도구](https://searchadvisor.naver.com/console/board): 검색 엔진용  
+* [freenom](https://my.freenom.com/clientarea.php): 무료 도메인 관련(무료는 최대 1년)  
+* [네이버 웹마스터 도구](https://searchadvisor.naver.com/console/board): 검색 엔진(robot.txt), 웹사이트 최적화  
+* [xml-sitemaps](https://www.xml-sitemaps.com/): sitemap.xml 파일 생성  
 * 
