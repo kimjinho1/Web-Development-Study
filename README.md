@@ -3,7 +3,7 @@
 ## 공부 방법: 코드 아카데미, 유튜브  
 
 ## 공부 겸 만든 웹사이트)
-### [강아지 고양이 분류기](https://cat-dog-classification.netlify.app/)  
+### 강아지, 고양이 분류해주는 사이트: https://cat-dog-classification.netlify.app/    
 github: https://github.com/kimjinho1/cat-dog-classification  
 
 #### 잡것들)  
