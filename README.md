@@ -10,4 +10,3 @@
 * [freenom](https://my.freenom.com/clientarea.php): 무료 도메인 관련(무료는 최대 1년)  
 * [네이버 웹마스터 도구](https://searchadvisor.naver.com/console/board): 검색 엔진(robot.txt), 웹사이트 최적화  
 * [xml-sitemaps](https://www.xml-sitemaps.com/): sitemap.xml 파일 생성  
-* 
